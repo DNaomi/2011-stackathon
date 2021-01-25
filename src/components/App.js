@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div>
         <h1 className="App-header">Home page</h1>
+        <p>this is the body of the home page, hello word</p>
         <Link to="/other">Next</Link>
       </div>
     </div>
